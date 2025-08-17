@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Shashank Dixit!  
-💻 SDE | 🚀 Flutter & C++ Dev | ⚡ Backend & Cloud Enthusiast  
+💻 DevOps & Cloud Engineer | 🚀 Flutter & C++ Developer | ⚡ Backend Enthusiast  
 
 ## 🚀 About Me  
 - 🔭 I’m currently learning **Node.js & Express.js**  
-- 🌱 Exploring **Scalable Backend Architectures**  
-- 🎯 Goals: **Build high-performance backend systems & contribute to Open Source**  
-- 🏋️ Passionate about **Tech, Chess, and Gym**  
+- 🌱 Exploring **Scalable Backend Architectures & Cloud-Native Solutions**  
+- 🎯 Goals: **Design reliable DevOps pipelines, build high-performance systems, and contribute to Open Source**  
+- 🏋️ Passionate about **Tech, Chess, and Fitness**  
 
 ## 📫 Connect With Me  
 <p align="left">
@@ -32,10 +32,9 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black">
 </p>
 
-### 📱 Mobile & Frontend  
+### 📱 Frontend & Mobile  
 <p align="left">
   <img src="https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=flutter&logoColor=white">
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=androidstudio&logoColor=white">
   <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
 </p>
@@ -45,22 +44,32 @@
   <img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white">
   <img src="https://img.shields.io/badge/Express.js-000000.svg?style=for-the-badge&logo=express&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/Oracle-F80000.svg?style=for-the-badge&logo=oracle&logoColor=white">
   <img src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black">
+  <img src="https://img.shields.io/badge/Cloud%20Firestore-FF7139.svg?style=for-the-badge&logo=firebase&logoColor=white">
 </p>
 
-### ☁️ Cloud & Deployment  
+### ☁️ Cloud & DevOps  
 <p align="left">
   <img src="https://img.shields.io/badge/AWS-FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=black">
-  <img src="https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white">
+  <img src="https://img.shields.io/badge/Terraform-623CE4.svg?style=for-the-badge&logo=terraform&logoColor=white">
+  <img src="https://img.shields.io/badge/Ansible-EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white">
+  <img src="https://img.shields.io/badge/Jenkins-D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white">
 </p>
 
-### 🔧 Tools & DevOps  
+### 📊 Monitoring & Observability  
+<p align="left">
+  <img src="https://img.shields.io/badge/Grafana-F46800.svg?style=for-the-badge&logo=grafana&logoColor=white">
+  <img src="https://img.shields.io/badge/Prometheus-E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white">
+  <img src="https://img.shields.io/badge/Amazon%20CloudWatch-FF4F8B.svg?style=for-the-badge&logo=amazonaws&logoColor=white">
+</p>
+
+### 🔧 Tools  
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05033.svg?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white">
   <img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white">
 </p>
 
