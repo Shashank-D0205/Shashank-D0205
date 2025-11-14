@@ -2,7 +2,6 @@
 💻 DevOps & Cloud Engineer | 🚀 Flutter & C++ Developer | ⚡ Backend Enthusiast  
 
 ## 🚀 About Me  
-- 🔭 I’m currently learning **Node.js & Express.js**  
 - 🌱 Exploring **Scalable Backend Architectures & Cloud-Native Solutions**  
 - 🎯 Goals: **Design reliable DevOps pipelines, build high-performance systems, and contribute to Open Source**  
 - 🏋️ Passionate about **Tech, Chess, and Fitness**  
